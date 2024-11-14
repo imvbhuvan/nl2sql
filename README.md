@@ -87,6 +87,18 @@ postgresql://username:password@host:port/database_name
 - Option to cancel query execution
 - Error handling for query execution
 
+## Architecture
+
+![Untitled-2024-11-14-1445](https://github.com/user-attachments/assets/562aaf21-5ef2-4c45-aee0-e3e26a19d9f5)
+
+## UI Snapshots
+
+<img width="955" alt="Screenshot 2024-11-14 145927" src="https://github.com/user-attachments/assets/d106b024-5aae-4d48-8750-5a30a2ba6cfe">
+<img width="952" alt="Screenshot 2024-11-14 145950" src="https://github.com/user-attachments/assets/fdf40b07-47b9-4875-9cda-32dc12cdfca1">
+<img width="955" alt="Screenshot 2024-11-14 145927" src="https://github.com/user-attachments/assets/283df30d-2acd-4474-9795-d4e81f928862">
+
+
+
 ## Security Notes
 
 - Database credentials are handled securely through password-masked input
@@ -103,7 +115,7 @@ The application includes comprehensive error handling for:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to reach out to the below-mentioned email ID.
 
 ## License
 
