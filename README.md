@@ -95,7 +95,8 @@ postgresql://username:password@host:port/database_name
 
 <img width="955" alt="Screenshot 2024-11-14 145927" src="https://github.com/user-attachments/assets/d106b024-5aae-4d48-8750-5a30a2ba6cfe">
 <img width="952" alt="Screenshot 2024-11-14 145950" src="https://github.com/user-attachments/assets/fdf40b07-47b9-4875-9cda-32dc12cdfca1">
-<img width="955" alt="Screenshot 2024-11-14 145927" src="https://github.com/user-attachments/assets/283df30d-2acd-4474-9795-d4e81f928862">
+<img width="958" alt="Screenshot 2024-11-14 150006" src="https://github.com/user-attachments/assets/dbfb7811-28eb-4532-92b1-5c001b86724b">
+
 
 
 
